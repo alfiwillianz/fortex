@@ -11,3 +11,7 @@ pytorch-tabnet
 statsmodels
 ipywidgets
 jupyter
+ipykernel
+imbalanced-learn
+optuna
+miceforest
